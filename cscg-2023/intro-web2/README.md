@@ -6,7 +6,7 @@ Visiting the hyperlink gives us a hint that we need Windows 95 to access the web
 ![First Part - Hint](first-part-link.png)
 
 So I've changed the User Agent to 'Mozilla/2.0 (compatible; MSIE 3.0; Windows 95) and resend the request:
-![First Part - User Agent Manipulation](first-part-user-agent.png)
+![First Part - User Agent Manipulation](first-part-user-agent-manipulation.png)
 
 Changing the User Agent gives us the first part of the flag:
 ![First Part - Flag](first-part.png)
