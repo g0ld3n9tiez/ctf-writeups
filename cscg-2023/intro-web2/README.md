@@ -29,6 +29,7 @@ Third Part of the flag:
 
 ## Flag Part 4/4 - Parameter Manipulation
 
-Intercepting the hyperlink with Burp shows a parameter 'authorized' with the value 'false'. Changing the value to true, gives us access to the flag:
+Intercepting the hyperlink with Burp shows a parameter 'authorized' with the value 'false'. Changing the value to 'true', gives us access to the flag:
+
 ![Fourth Part - Parameter Manipulation](fourth-part-parameter-manipulation.png)
 ![Fourth Part - Flag](fourth-part.png)
